@@ -44,7 +44,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="Soenneker.Quark.Enums.Colors" Version="3.0.1" />
       <PackageReference Include="Soenneker.Quark.Enums.ColorTypes" Version="3.0.1" />
     </ItemGroup>
 </Project>
